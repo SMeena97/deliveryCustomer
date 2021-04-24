@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070271602770",
+    "project_id": "soudhi-a65a6",
+    "storage_bucket": "soudhi-a65a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070271602770:android:0b5b92cc44171f23f9bf8b",
+        "android_client_info": {
+          "package_name": "com.smartersvision.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070271602770-5vedtv2ejq7olhm524vaj3va57p7lis2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8ah22KFdo3oX8z1npjK_1YkN3RKV_xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070271602770-5vedtv2ejq7olhm524vaj3va57p7lis2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
